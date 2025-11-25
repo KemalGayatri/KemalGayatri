@@ -4,3 +4,5 @@
 
 - Revisit initial hypotheses after gathering evidence.
 
+- Keep insights concise and actionable.
+
