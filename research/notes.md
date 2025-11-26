@@ -6,3 +6,5 @@
 
 - Keep insights concise and actionable.
 
+- Group related ideas to maintain clarity.
+
