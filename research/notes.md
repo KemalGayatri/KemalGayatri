@@ -8,3 +8,5 @@
 
 - Group related ideas to maintain clarity.
 
+- Start with simple assumptions before exploring alternatives.
+
