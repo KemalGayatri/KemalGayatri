@@ -10,3 +10,5 @@
 
 - Start with simple assumptions before exploring alternatives.
 
+- Validate ideas with small, controlled experiments.
+
