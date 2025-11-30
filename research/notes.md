@@ -12,3 +12,5 @@
 
 - Validate ideas with small, controlled experiments.
 
+- Keep track of trade-offs when comparing approaches.
+
