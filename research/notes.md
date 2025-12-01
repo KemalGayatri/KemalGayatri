@@ -14,3 +14,5 @@
 
 - Keep track of trade-offs when comparing approaches.
 
+- Treat dead-ends as learning, not wasted work.
+
