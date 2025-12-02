@@ -16,3 +16,5 @@
 
 - Treat dead-ends as learning, not wasted work.
 
+- Structure notes so future revisions stay clear.
+
