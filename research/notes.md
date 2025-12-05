@@ -18,3 +18,5 @@
 
 - Structure notes so future revisions stay clear.
 
+- Keep insights concise and actionable.
+
