@@ -26,3 +26,6 @@
 *   Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
 *   Explore implementing GitHub Actions for automated testing and deployment.
 
+
+The repository contains code related to Kemal and Gayatri. Consider adding a README file to explain the purpose of the repository, how to use the code, and any dependencies.
+
