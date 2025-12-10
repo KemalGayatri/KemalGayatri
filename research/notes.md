@@ -29,3 +29,7 @@
 
 The repository contains code related to Kemal and Gayatri. Consider adding a README file to explain the purpose of the repository, how to use the code, and any dependencies.
 
+
+Consider adding a README.md file with a clear project description, setup instructions, and contribution guidelines.
+Explore unit testing for key functions to ensure code robustness and maintainability.
+
