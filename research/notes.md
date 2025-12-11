@@ -33,3 +33,8 @@ The repository contains code related to Kemal and Gayatri. Consider adding a REA
 Consider adding a README.md file with a clear project description, setup instructions, and contribution guidelines.
 Explore unit testing for key functions to ensure code robustness and maintainability.
 
+
+Consider adding a README.md file with a clear project description, setup instructions, and usage examples.
+
+Explore integrating unit tests for the core functionality to ensure code quality and maintainability.
+
