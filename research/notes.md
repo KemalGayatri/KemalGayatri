@@ -38,3 +38,7 @@ Consider adding a README.md file with a clear project description, setup instruc
 
 Explore integrating unit tests for the core functionality to ensure code quality and maintainability.
 
+
+Consider adding a CONTRIBUTING.md file to guide potential contributors.
+Explore adding unit tests for core functionalities to ensure code robustness.
+
