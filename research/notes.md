@@ -42,3 +42,8 @@ Explore integrating unit tests for the core functionality to ensure code quality
 Consider adding a CONTRIBUTING.md file to guide potential contributors.
 Explore adding unit tests for core functionalities to ensure code robustness.
 
+
+Consider adding a CONTRIBUTING.md file to guide potential contributors.
+
+Explore the possibility of integrating a CI/CD pipeline for automated testing and deployment.
+
