@@ -47,3 +47,7 @@ Consider adding a CONTRIBUTING.md file to guide potential contributors.
 
 Explore the possibility of integrating a CI/CD pipeline for automated testing and deployment.
 
+
+Consider adding a CONTRIBUTING.md file to guide potential contributors.
+Include a `.gitignore` file to prevent accidental inclusion of unnecessary files in commits.
+
