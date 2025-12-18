@@ -63,3 +63,7 @@ Explore potential use cases or integrations for the project.
 Consider adding a `CONTRIBUTING.md` file to guide potential contributors.
 Explore CI/CD integration for automated testing and deployment.
 
+
+Consider adding a README with a brief explanation of the project and setup instructions.
+Explore adding unit tests for core functionalities.
+
