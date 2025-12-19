@@ -67,3 +67,7 @@ Explore CI/CD integration for automated testing and deployment.
 Consider adding a README with a brief explanation of the project and setup instructions.
 Explore adding unit tests for core functionalities.
 
+
+- Add `README.md` with a project overview, installation instructions, and usage examples.
+- Implement unit tests for core functionalities to ensure code quality and maintainability.
+
