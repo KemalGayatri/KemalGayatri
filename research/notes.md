@@ -71,3 +71,8 @@ Explore adding unit tests for core functionalities.
 - Add `README.md` with a project overview, installation instructions, and usage examples.
 - Implement unit tests for core functionalities to ensure code quality and maintainability.
 
+
+Consider adding a CI/CD pipeline for automated testing and deployment.
+
+Explore integrating a frontend framework for a more dynamic user experience.
+
