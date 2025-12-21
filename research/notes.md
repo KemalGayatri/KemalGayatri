@@ -76,3 +76,8 @@ Consider adding a CI/CD pipeline for automated testing and deployment.
 
 Explore integrating a frontend framework for a more dynamic user experience.
 
+
+Consider adding unit tests for key business logic.
+
+Explore potential integration with a CI/CD pipeline.
+
