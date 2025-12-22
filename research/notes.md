@@ -81,3 +81,7 @@ Consider adding unit tests for key business logic.
 
 Explore potential integration with a CI/CD pipeline.
 
+
+Consider adding CI/CD pipeline configurations.
+Explore implementing a rate limiting mechanism for API endpoints.
+
