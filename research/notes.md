@@ -85,3 +85,8 @@ Explore potential integration with a CI/CD pipeline.
 Consider adding CI/CD pipeline configurations.
 Explore implementing a rate limiting mechanism for API endpoints.
 
+
+Consider adding a CONTRIBUTING.md file to guide potential contributors.
+
+Explore CI/CD pipelines for automated testing and deployment.
+
