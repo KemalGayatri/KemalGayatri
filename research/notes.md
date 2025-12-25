@@ -90,3 +90,7 @@ Consider adding a CONTRIBUTING.md file to guide potential contributors.
 
 Explore CI/CD pipelines for automated testing and deployment.
 
+
+Consider adding CI/CD pipelines for automated testing and deployment.
+Explore potential integrations with popular frontend frameworks like React or Vue.js.
+
