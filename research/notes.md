@@ -99,3 +99,7 @@ This repo would be a great place to explore the intersection of ancient Vedic ph
 
 Consider incorporating sections on the practical applications of Vedic concepts in areas like AI ethics, consciousness studies, or complex systems modeling.
 
+
+Consider adding a `CONTRIBUTING.md` file to guide potential contributors.
+Explore potential integrations or use cases with related technologies or frameworks.
+
