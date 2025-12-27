@@ -103,3 +103,8 @@ Consider incorporating sections on the practical applications of Vedic concepts 
 Consider adding a `CONTRIBUTING.md` file to guide potential contributors.
 Explore potential integrations or use cases with related technologies or frameworks.
 
+
+Consider adding a README.md file to explain the purpose and usage of the repository.
+
+Explore potential for creating a web interface or demonstration of the KemalGayatri functionality.
+
