@@ -108,3 +108,7 @@ Consider adding a README.md file to explain the purpose and usage of the reposit
 
 Explore potential for creating a web interface or demonstration of the KemalGayatri functionality.
 
+
+- Consider adding a contribution guide to streamline community involvement.
+- Explore potential integrations with other popular AI/ML frameworks or libraries.
+
