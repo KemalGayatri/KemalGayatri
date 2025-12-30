@@ -112,3 +112,7 @@ Explore potential for creating a web interface or demonstration of the KemalGaya
 - Consider adding a contribution guide to streamline community involvement.
 - Explore potential integrations with other popular AI/ML frameworks or libraries.
 
+
+Consider adding a section on common use cases or example projects.
+Explore integration possibilities with other popular AI/ML frameworks or tools.
+
