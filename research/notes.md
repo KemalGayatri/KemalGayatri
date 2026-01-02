@@ -120,3 +120,7 @@ Explore integration possibilities with other popular AI/ML frameworks or tools.
 Consider adding example use cases or a quick-start guide in the README.
 Explore integrating a testing framework to ensure code stability and maintainability.
 
+
+* **Deployment Strategy:** Outline a clear strategy for deploying the application (e.g., Docker, Kubernetes, serverless functions).
+* **Scalability Considerations:** Discuss how the application is designed to handle increasing user load and data volume.
+
