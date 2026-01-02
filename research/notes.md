@@ -116,3 +116,7 @@ Explore potential for creating a web interface or demonstration of the KemalGaya
 Consider adding a section on common use cases or example projects.
 Explore integration possibilities with other popular AI/ML frameworks or tools.
 
+
+Consider adding example use cases or a quick-start guide in the README.
+Explore integrating a testing framework to ensure code stability and maintainability.
+
