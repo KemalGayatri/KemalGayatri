@@ -128,3 +128,7 @@ Explore integrating a testing framework to ensure code stability and maintainabi
 Consider adding a README that outlines the project's purpose, setup, and usage.
 Include a CONTRIBUTING.md file to guide potential contributors.
 
+
+*   Consider adding a contribution guide.
+*   Explore CI/CD pipeline integration for automated testing and deployment.
+
