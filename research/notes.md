@@ -132,3 +132,8 @@ Include a CONTRIBUTING.md file to guide potential contributors.
 *   Consider adding a contribution guide.
 *   Explore CI/CD pipeline integration for automated testing and deployment.
 
+
+Consider adding a README.md file to clearly describe the project's purpose and how to use it.
+
+Explore potential integrations with popular AI frameworks or libraries for enhanced functionality.
+
