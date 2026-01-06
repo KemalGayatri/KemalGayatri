@@ -137,3 +137,7 @@ Consider adding a README.md file to clearly describe the project's purpose and h
 
 Explore potential integrations with popular AI frameworks or libraries for enhanced functionality.
 
+
+Consider adding a README.md to outline the project's purpose, setup instructions, and usage examples.
+Explore adding unit tests to ensure the reliability and correctness of the code.
+
