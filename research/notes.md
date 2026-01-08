@@ -141,3 +141,8 @@ Explore potential integrations with popular AI frameworks or libraries for enhan
 Consider adding a README.md to outline the project's purpose, setup instructions, and usage examples.
 Explore adding unit tests to ensure the reliability and correctness of the code.
 
+
+Consider adding a `.env.example` file to guide users on setting up their environment variables.
+
+Explore adding GitHub Actions for automated testing, linting, and deployment.
+
