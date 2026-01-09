@@ -146,3 +146,7 @@ Consider adding a `.env.example` file to guide users on setting up their environ
 
 Explore adding GitHub Actions for automated testing, linting, and deployment.
 
+
+*   Consider adding a "Contributing.md" file to outline how others can contribute to the project.
+*   Include a "Code of Conduct" to foster a respectful and inclusive community.
+
