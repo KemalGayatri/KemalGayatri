@@ -150,3 +150,7 @@ Explore adding GitHub Actions for automated testing, linting, and deployment.
 *   Consider adding a "Contributing.md" file to outline how others can contribute to the project.
 *   Include a "Code of Conduct" to foster a respectful and inclusive community.
 
+
+Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
+Explore potential integrations with other popular Java libraries or frameworks.
+
