@@ -154,3 +154,8 @@ Explore adding GitHub Actions for automated testing, linting, and deployment.
 Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
 Explore potential integrations with other popular Java libraries or frameworks.
 
+
+Consider adding a CI/CD pipeline for automated testing and deployment.
+
+Explore integrating a documentation generator like Sphinx or MkDocs for better project understanding.
+
