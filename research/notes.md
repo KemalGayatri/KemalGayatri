@@ -164,3 +164,7 @@ Consider adding a `CONTRIBUTING.md` file outlining contribution guidelines and c
 
 Explore integrating automated testing with CI/CD pipelines for improved code quality and faster releases.
 
+
+Consider adding CI/CD pipeline for automated testing and deployment.
+Explore adding unit and integration tests to ensure code quality and maintainability.
+
