@@ -159,3 +159,8 @@ Consider adding a CI/CD pipeline for automated testing and deployment.
 
 Explore integrating a documentation generator like Sphinx or MkDocs for better project understanding.
 
+
+Consider adding a `CONTRIBUTING.md` file outlining contribution guidelines and code of conduct.
+
+Explore integrating automated testing with CI/CD pipelines for improved code quality and faster releases.
+
