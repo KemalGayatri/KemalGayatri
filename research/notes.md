@@ -168,3 +168,7 @@ Explore integrating automated testing with CI/CD pipelines for improved code qua
 Consider adding CI/CD pipeline for automated testing and deployment.
 Explore adding unit and integration tests to ensure code quality and maintainability.
 
+
+Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
+Explore setting up automated testing and continuous integration (CI) pipelines.
+
