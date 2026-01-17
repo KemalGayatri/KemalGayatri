@@ -172,3 +172,7 @@ Explore adding unit and integration tests to ensure code quality and maintainabi
 Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
 Explore setting up automated testing and continuous integration (CI) pipelines.
 
+
+Consider adding a contribution guide.
+Explore CI/CD pipeline integration.
+
