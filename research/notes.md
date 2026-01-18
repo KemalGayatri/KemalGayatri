@@ -176,3 +176,8 @@ Explore setting up automated testing and continuous integration (CI) pipelines.
 Consider adding a contribution guide.
 Explore CI/CD pipeline integration.
 
+
+Consider adding a README.md file with a clear description of the project, its purpose, and instructions on how to set it up and use it.
+
+Explore the possibility of incorporating unit tests to ensure the reliability and maintainability of the code.
+
