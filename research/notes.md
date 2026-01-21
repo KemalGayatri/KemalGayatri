@@ -181,3 +181,7 @@ Consider adding a README.md file with a clear description of the project, its pu
 
 Explore the possibility of incorporating unit tests to ensure the reliability and maintainability of the code.
 
+
+Consider adding a `CONTRIBUTING.md` file with guidelines for potential contributors.
+Include a `.gitignore` file to prevent committing unnecessary files.
+
