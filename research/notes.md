@@ -185,3 +185,8 @@ Explore the possibility of incorporating unit tests to ensure the reliability an
 Consider adding a `CONTRIBUTING.md` file with guidelines for potential contributors.
 Include a `.gitignore` file to prevent committing unnecessary files.
 
+
+Consider adding a section on common use cases or examples of how to use the KemalGayatri components.
+
+Explore potential contributions or extensions to the existing functionality, perhaps for performance optimization or added features.
+
