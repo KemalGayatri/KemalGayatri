@@ -190,3 +190,8 @@ Consider adding a section on common use cases or examples of how to use the Kema
 
 Explore potential contributions or extensions to the existing functionality, perhaps for performance optimization or added features.
 
+
+Consider adding a `CHANGELOG.md` file.
+
+Include a `CONTRIBUTING.md` file to outline contribution guidelines.
+
