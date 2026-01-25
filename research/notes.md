@@ -200,3 +200,7 @@ Consider adding CI/CD pipelines for automated testing and deployment.
 
 Explore options for integrating performance monitoring and logging.
 
+
+Consider adding a README.md that clearly explains the purpose of the repo and how to use the code.
+Include example usage or demonstration of the functionalities.
+
