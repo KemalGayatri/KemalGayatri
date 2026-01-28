@@ -208,3 +208,7 @@ Include example usage or demonstration of the functionalities.
 Consider a CI/CD pipeline for automated testing and deployment.
 Explore the use of pre-commit hooks for code quality checks.
 
+
+Consider adding a CONTRIBUTING.md file.
+Explore adding unit tests for core functionalities.
+
