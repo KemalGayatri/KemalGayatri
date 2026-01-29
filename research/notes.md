@@ -212,3 +212,7 @@ Explore the use of pre-commit hooks for code quality checks.
 Consider adding a CONTRIBUTING.md file.
 Explore adding unit tests for core functionalities.
 
+
+Consider adding a `README.md` with a clear project overview, setup instructions, and contribution guidelines.
+Explore potential CI/CD pipeline integration for automated testing and deployment.
+
